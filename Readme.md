@@ -213,10 +213,12 @@ Logged metrics include:
 If you use this code in your research, please cite:
 
 ```bibtex
-@inproceedings{grape2025,
-  title={GRAPE: Optimize Data Mixture for Group Robust Multi-target Adaptive Pretraining},
-  author={Your Name et al.},
-  booktitle={Advances in Neural Information Processing Systems},
-  year={2025}
+@inproceedings{
+fan2025grape,
+title={{GRAPE}: Optimize Data Mixture for Group Robust Multi-target Adaptive Pretraining},
+author={Simin Fan and Maria Ios Glarou and Martin Jaggi},
+booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
+year={2025},
+url={https://openreview.net/forum?id=JRmIvBcnWc}
 }
 ```
